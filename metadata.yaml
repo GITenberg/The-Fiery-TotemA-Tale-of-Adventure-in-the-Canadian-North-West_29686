@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34086'
     url: http://www.gutenberg.org/2009/agents/34086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29686#The-Fiery-TotemA-Tale-of-Adventure-in-the-Canadian-North-West
 gutenberg_issued: '2009-08-14'
 gutenberg_type: Text
 identifiers:
