@@ -1,0 +1,30 @@
+_repo: The-Fiery-TotemA-Tale-of-Adventure-in-the-Canadian-North-West_29686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saxby, C. F. Argyll
+    alias: Saxby, Argyll
+    gutenberg_agent_id: '34086'
+    url: http://www.gutenberg.org/2009/agents/34086
+description: ''
+gutenberg_issued: '2009-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Northwest, Canadian -- History -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Northwest, Canadian -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Frontier and pioneer life -- Northwest, Canadian -- Juvenile fiction'
+title: 'The Fiery Totem
+
+  A Tale of Adventure in the Canadian North-West'
+url: http://www.gutenberg.org/ebooks/29686
